@@ -1,16 +1,9 @@
-### 👋 About Me:
 - 🏫 I’m currently working on an **e-commerce project**  
 - 🌱 I’m currently learning **Backend & Software Development**  
 - ✍🏻 I love using **Software and new technologies to solve problems**  
 - 📚 I am currently learning **Computer Science**  
 - 📄 [My Resume](#) *(Add your resume link here)*  
 
----
-
-<h1 align="center">Hi 👋, I'm Ahmed Salih</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
----
 
 ### 🌐 Connect with Me:
 <p align="left">
