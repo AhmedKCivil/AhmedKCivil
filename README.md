@@ -13,6 +13,8 @@
 
 ---
 
+### My Skills
+---
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"> 
