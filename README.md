@@ -1,6 +1,22 @@
+### 👋 About Me:
+- 🏫 I’m currently working on an **e-commerce project**  
+- 🌱 I’m currently learning **Backend & Software Development**  
+- ✍🏻 I love using **Software and new technologies to solve problems**  
+- 📚 I am currently learning **Computer Science**  
+- 📄 [My Resume](#) *(Add your resume link here)*  
+
+---
+
+<h1 align="center">Hi 👋, I'm Ahmed Salih</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+---
+
+### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-salih-b95105b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -40,11 +56,4 @@
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/> 
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
