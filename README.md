@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning **Backend & Software Development**  
 - ✍🏻 I love using **Software and new technologies to solve problems**  
 - 📚 I am currently learning **Computer Science**  
-- 📄 [My Resume](#) *(Add your resume link here)*  
 
 
 ### 🌐 Connect with Me:
