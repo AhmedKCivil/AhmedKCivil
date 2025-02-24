@@ -3,14 +3,6 @@
 - ✍🏻 I love using **Software and new technologies to solve problems**  
 - 📚 I am currently learning **Computer Science**  
 
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-salih-b95105b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ### My Skills
@@ -49,5 +41,13 @@
   </a> 
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/> 
+  </a>
+</p>
+
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-salih-b95105b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
